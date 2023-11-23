@@ -1,0 +1,13 @@
+J:\practice C#\Hotel Management System of Mariana Trench\bin\Debug\Hotel Management System of Mariana Trench.exe.config
+J:\practice C#\Hotel Management System of Mariana Trench\bin\Debug\Hotel Management System of Mariana Trench.exe
+J:\practice C#\Hotel Management System of Mariana Trench\bin\Debug\Hotel Management System of Mariana Trench.pdb
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel Management System of Mariana Trench.csproj.AssemblyReference.cache
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel Management System of Mariana Trench.csproj.SuggestedBindingRedirects.cache
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel_Management_System_of_Mariana_Trench.Properties.Resources.resources
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel Management System of Mariana Trench.csproj.GenerateResource.cache
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel Management System of Mariana Trench.csproj.CoreCompileInputs.cache
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel Management System of Mariana Trench.exe
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel Management System of Mariana Trench.pdb
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel_Management_System_of_Mariana_Trench.FormEmployee.resources
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel_Management_System_of_Mariana_Trench.FormLogin.resources
+J:\practice C#\Hotel Management System of Mariana Trench\obj\Debug\Hotel_Management_System_of_Mariana_Trench.FormAdmin.resources
